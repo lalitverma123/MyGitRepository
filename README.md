@@ -1,2 +1,0 @@
-# MyGitRepository
-Repository for GIT
